@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-    Copyright (C) 2012-2019 Tobias Brunner
+    Copyright (C) 2012-2020 Tobias Brunner
     Copyright (C) 2012 Giuliano Grassi
     Copyright (C) 2012 Ralf Sager
     HSR Hochschule fuer Technik Rapperswil
@@ -31,6 +31,9 @@
     <string name="strongswan_shortcut">strongSwan-Verknüpfung</string>
     <string name="permanent_notification_name">VPN Verbindungsstatus</string>
     <string name="permanent_notification_description">Zeigt Informationen zum Verbindungsstatus der VPN Verbindung und dient als permanente Notification dazu, den VPN Dienst im Hintergrund am Laufen zu halten.</string>
+    <string name="password_notification_name">VPN Passwort</string>
+    <string name="password_notification_description">Wird verwendet, um vom Benutzer ein Passwort zu verlangen.</string>
+    <string name="password_notification_prompt">Password benötigt</string>
 
     <!-- Settings -->
     <string name="pref_title">Einstellungen</string>
